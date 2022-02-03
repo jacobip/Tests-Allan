@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    font-family: 'Bagnard', sans-serif;
+    color: white;
+}
+
+#logo_header {
+    width: 420px;
+    height: auto;
+}
+
+.logo_header {
+    text-align: center;
+}
+
